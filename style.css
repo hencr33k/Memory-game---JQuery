@@ -1,0 +1,18 @@
+div {
+    height: 6em;
+    width: 13%;
+    float: right;
+    border: 1px solid black;
+    margin: 0.4em;
+    padding: 1em;
+    background-color: white;
+}
+html {
+    background-color: lightblue;
+}
+div img {
+    height: 6em;
+    width: 100%;
+}
+.opened {
+}
